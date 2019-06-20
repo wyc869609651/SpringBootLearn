@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ-Receiver/RabbitMQ-Receiver.iml" filepath="$PROJECT_DIR$/RabbitMQ-Receiver/RabbitMQ-Receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ-Sender/RabbitMQ-Sender.iml" filepath="$PROJECT_DIR$/RabbitMQ-Sender/RabbitMQ-Sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-RabbitMQ.iml" filepath="$PROJECT_DIR$/SpringBoot-RabbitMQ.iml" />
+    </modules>
+  </component>
+</project>
